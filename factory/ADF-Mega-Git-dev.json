@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Mega-Git-dev",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "970acca2-ec2b-4836-a235-6d196dbf6512",
+		"tenantId": "cb5096e2-e0d0-41de-9dd0-6b49ee67d7d8"
+	}
+}
